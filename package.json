@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "checkly": "^4.10.0"
+  },
+  "devDependencies": {
+    "checkly": "latest",
+    "ts-node": "latest",
+    "typescript": "latest"
+  }
+}
