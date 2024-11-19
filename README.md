@@ -85,7 +85,7 @@ You can learn more about email alerts and other methods of notifications here: h
 
 ## CI/CD 
 
-Checkly makes it simple to connect with your CI/CD pipeline. The specific configuration will depend on the which pipeline you’re using. The basic steps are: 
+Checkly makes it simple to connect with your CI/CD pipeline. The specific configuration will depend on which pipeline you’re using. The basic steps all CI/CD pipelines are: 
 
 1. Make sure the tests are tracked in the git repo so that the latest version is available whenever an update is pushed to the remote repo. 
 2. Once the new code is deployed, run `npx checkly test` to ensure all tests are successful. 
