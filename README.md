@@ -12,7 +12,7 @@ To create a new Checkly project, follow these steps:
 npm install checkly
 ```
 
-2. Create a new Checkly project. Follow the prompts and initialize a git repo if you haven't already:
+2. Create a new Checkly project. Follow the prompts and choose the options that work best for you. In this example I've chosen the 'boilerplate TypeScript project with basic config' template. Make sure to initialize a git repo if you haven't already:
 
 ```bash
 npm create checkly
